@@ -324,4 +324,4 @@ Select a principal
 </p>
 <p>
   
-  Congrats! You have now successfully installed and set up osTicket!
+  Congrats! You have now successfully installed and set up osTicket! In the next part we will configure the ticketing system.
